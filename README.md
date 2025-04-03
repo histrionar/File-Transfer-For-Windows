@@ -1,5 +1,5 @@
 # KokoShare File Transfer For Windows
-KokoShare adalah aplikasi transfer file untuk Windows yang memungkinkan pengguna mengirim dan menerima file melalui jaringan nirkabel antar perangkat dengan mudah.
+KokoShare File Transfer adalah aplikasi transfer file untuk Windows yang memungkinkan pengguna mengirim dan menerima file melalui jaringan nirkabel antar perangkat dengan mudah.
 
 ## Fitur Utama
 - **Kirim dan Terima File**: Pilih file yang ingin dikirim dan masukkan alamat IP tujuan untuk memulai transfer.
@@ -11,8 +11,8 @@ KokoShare adalah aplikasi transfer file untuk Windows yang memungkinkan pengguna
 2. **Mode Terima**: Jalankan aplikasi ini di perangkat penerima dan file akan otomatis diterima.
 
 ## Screenshot
-![Halaman Kirim](screenshot/6-kirim.jpeg)
-![Halaman Terima](screenshot/7-terima.jpeg)
+![Halaman Kirim](screenshoot/6-kirim.jpeg)
+![Halaman Terima](screenshoot/7-terima.jpeg)
 
 ## Instalasi
 1. Unduh dan ekstrak file dari [link ini](#).
