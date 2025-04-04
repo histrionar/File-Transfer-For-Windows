@@ -11,7 +11,7 @@ KokoShare File Transfer adalah aplikasi transfer file untuk Windows yang memungk
 2. **Mode Terima**: Jalankan aplikasi ini di perangkat penerima dan file akan otomatis diterima.
 
 ## Instalasi
-1. Unduh installer file dari [link ini]([https://github.com/rizko77/File-Transfer-For-Windows/blob/main/installer.exe](https://github.com/rizko77/File-Transfer-For-Windows/releases/download/v1.1.2/installer.exe)).
+1. Unduh installer file dari [link ini](https://github.com/rizko77/File-Transfer-For-Windows/releases/download/v1.1.2/installer.exe).
 2. Jalankan aplikasi `installer.exe` untuk memulai.
 3. Jika ada peringatan warning klik more info dan pilih run anyway.
 4. Pilih lokasi install dan next dan tunggu sampai finish.
